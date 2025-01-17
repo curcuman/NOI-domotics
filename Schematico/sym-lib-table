@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "raspberrypi_zerow_uhat-cache")(type "Legacy")(uri "${KIPRJMOD}/Schematic files/raspberrypi_zerow_uhat-cache.lib")(options "")(descr ""))
+  (lib (name "ESP32")(type "KiCad")(uri "${KIPRJMOD}/Schematic files/ESP32.kicad_sym")(options "")(descr ""))
+)
