@@ -5,7 +5,9 @@
   (paper "A3" portrait)
 
   (title_block
-    (date "2025-03-03")
+    (title "NOI Domotics")
+    (date "2025-03-04")
+    (comment 1 "Designed by Marco Benetti & Filippo Zeggio")
   )
 
   (lib_symbols
